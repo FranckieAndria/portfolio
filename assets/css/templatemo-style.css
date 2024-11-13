@@ -397,6 +397,14 @@ button:hover {
     padding-right: 5px;
 }
 
+.service-item .chronological-service {
+    color: #f0dfbc;
+}
+
+.service-item:hover .chronological-service {
+    color: #191919;
+}
+
 .service-item {
     margin-bottom: 10px;
     padding: 50px;
