@@ -443,27 +443,27 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(../images/interactivelab.jpg);
+    background-image: url(../images/professional/interactivelab.jpg);
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(../images/interactivelab.jpg);
+    background-image: url(../images/professional/interactivelab.jpg);
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/natix.jpeg);
+    background-image: url(../images/professional/natix.jpeg);
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url(../images/natix.jpeg);
+    background-image: url(../images/professional/natix.jpeg);
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/birger.png);
+    background-image: url(../images/professional/birger.png);
 }
 
 .service-item:hover .third-service-icon {
-    background-image: url(../images/birger.png);
+    background-image: url(../images/professional/birger.png);
 }
 
 
