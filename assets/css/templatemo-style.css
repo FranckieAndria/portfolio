@@ -440,6 +440,7 @@ button:hover {
     background-size: cover;
     background-repeat: no-repeat;
     transition: all 0.5s;
+    border-radius: 10%;
 }
 
 .service-item .first-service-icon {
