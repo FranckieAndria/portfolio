@@ -392,6 +392,19 @@ button:hover {
 
 /* Services */
 
+.contact-channels {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.contact-me-channels {
+    color: azure !important;
+}
+
+.contact-me-channels:hover {
+    color: aliceblue !important;
+    font-weight: bolder;
+}
+
 .my-services .col-md-6 {
     padding-left: 5px;
     padding-right: 5px;
