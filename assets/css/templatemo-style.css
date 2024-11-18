@@ -425,7 +425,7 @@ button:hover {
     transition: all 0.5s;
 }
 
-.service-item h4 {
+.service-item h3 {
     transition: all 0.5s;
 }
 
@@ -437,7 +437,7 @@ button:hover {
     background-color: rgba(250, 250, 250, 1);
 }
 
-.service-item:hover h4 {
+.service-item:hover h3 {
     color: #1e1e1e;
 }
 
