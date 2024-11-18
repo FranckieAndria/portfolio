@@ -129,6 +129,14 @@ html {
     color: #191919;
 }
 
+.mobile-header img {
+    border-radius: 50%;
+}
+
+.mobile-header span {
+    color: white;
+}
+
 /* Sidebar Menu */
 
 .menu .image {
