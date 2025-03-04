@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://www.i-love-bali.org/sitemap.xml
+Host: https://www.i-love-bali.org
